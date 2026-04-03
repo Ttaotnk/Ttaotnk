@@ -21,14 +21,6 @@ Web developer & System Architect & Programmer
 src="https://img.shields.io/github/followers/Ttaotnk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ttaotnk"></a>
-
-<a href="http://www.github.com/Ttaotnk"></a>
-
-<a href="https://github.com/Ttaotnk" align="left"></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
